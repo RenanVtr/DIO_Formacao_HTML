@@ -15,3 +15,7 @@ Este repositório, hospedado no GitHub, é dedicado aos arquivos do curso de for
 3. **Contribuir**: Sinta-se à vontade para contribuir com melhorias, correções ou novos exemplos através de pull requests.
 
 Este repositório é uma ferramenta valiosa para todos que desejam aprofundar seus conhecimentos em HTML e acompanhar o progresso do curso de formação da DIO.
+
+### [Resolução - Desafio 1](https://github.com/RenanVtr/DIO_Formacao_HTML/tree/main/Desafios/Desafio_1/index.html)
+
+### [Resolução - Desafio 2](https://github.com/RenanVtr/DIO_Formacao_HTML/tree/main/Desafios/Desafio_2/index.html)
