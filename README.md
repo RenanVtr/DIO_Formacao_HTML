@@ -17,14 +17,20 @@ Este repositório, hospedado no GitHub, é dedicado aos arquivos do curso de for
 Este repositório é uma ferramenta valiosa para todos que desejam aprofundar seus conhecimentos em HTML e acompanhar o progresso do curso de formação da DIO.
 
 # Desafio 1
+
+### Objetivo
+
 A ideia deste Desafio de Projeto é elaborar um website, utilizando uma estrutura bem básica, utilizando tags aprendidas durante as aulas práticas:
- 
+
+### Instruções
 Utilizar todas as tags explicadas nas aulas: `<h1>` até `<h6>`, `<p>`, `<mark>`, `<small>`, `<i>`, `<u>`, `<strong>`, `<ol>`, `<ul>`, `<li>`, `<a>`, `<hr>`, `<sub>`, `<sup>`, `<blockquote>`;
 Utilizar novas tags sugeridas: `<font>`, `<del>`, `<p>`, `<abbr>` (a ideia é buscar estas tags na internet, entender como ela funciona e utilizar no texto).
 
 ### [Resolução - Desafio 1](https://renanvtr.github.io/DIO_Formacao_HTML/Desafios/Desafio_1/index.html)
 
 # Desafio 2
+
+### Objetivo
 Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que vimos neste módulo. Os temas que deverão ser abordados são:
 - Formulários
 - Estruturação e formatação de texto
@@ -90,3 +96,23 @@ Menu e Footer padrões em todas as páginas.
 Desafio está lançado! Com tudo que aprendemos neste Módulo é perfeitamente possível criar este site!
 
 ### [Resolução - Desafio 2](https://renanvtr.github.io/DIO_Formacao_HTML/Desafios/Desafio_2/index.html)
+
+# Desafio 3
+
+**Título:** Recriando Wikipedia, com um layout melhor :)
+
+### Objetivo
+Este desafio consiste em treinar você com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
+
+### Instruções
+Neste repositório tem uma estrutura básica já pré-montada de um layout simples com um pouco de CSS aplicado. Apenas para deixar mais apresentável.
+
+Fiquem a vontade para criar da forma que desejarem, e sobre os temas que quiserem. O intuito aqui é divertir, e ao mesmo tempo aprender com o desafio.
+
+Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais fácil de entenderem como proceder.
+
+## Links úteis
+- [Download do NVDA](https://www.nvaccess.org/download/)
+- [Wikipedia](https://pt.wikipedia.org/)
+
+### [Resolução - Desafio 3](https://renanvtr.github.io/DIO_Formacao_HTML/Desafios/Desafio_3/index.html) 
