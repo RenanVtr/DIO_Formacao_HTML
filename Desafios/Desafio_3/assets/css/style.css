@@ -3,14 +3,19 @@ body, html {
     padding: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-ul { list-style: none; padding-left: 5px; }
+
+ul { list-style:circle; padding-left: 15px; }
+
 a { color:blue; text-decoration: none;}
+a:hover{color: blueviolet; text-decoration: underline;}
+
 .bar {
-    background-color: #f9f9fb;
-    padding:15px;
-    border-top: solid 1px #cdcdcd;
-    border-bottom: solid 1px #cdcdcd;
+    background-color: lightcyan;
+    height: 15px;
+    border-top: solid 1px black;
+    border-bottom: solid 1px black;
 }
+
 .content {
     max-width: 1440px;
     margin: auto;
@@ -22,17 +27,63 @@ a { color:blue; text-decoration: none;}
     padding-left: 1rem;
     padding-right: 1rem;
 }
-.footer {
-    min-height: 100px;
-    border-top: solid 1px #cdcdcd;
+
+.navfooter {
+    display:grid;
+    height:min-content;
+    text-align: center;
 }
-.anchors {
-    border-left: solid 1px #cdcdcd;
-    padding-left: 15px;
+
+.navfooter ul {
+
+    padding-bottom: 0px;
+
 }
-.sidebar {
-    border-right: solid 1px #cdcdcd;
+
+.navfooter ul li{
+    display: inline;
+    list-style: none;
+    padding: 10px;
 }
+
+
 figure {
     text-align: center;
+}
+
+nav{
+    border-left: solid 1px black;
+    border-right: solid 1px black;
+    text-align: left;
+    background-color: lightgrey;
+    padding-left: 20px;
+}
+
+nav ul {
+    padding-left: 5px;
+    padding-bottom: 15px;
+}
+
+nav ul li{
+    display: grid;
+    list-style: none; 
+    padding-left: 5px;
+    padding-bottom: 10px;
+}
+
+header {
+    max-width: 1440px;
+    margin: 5px;
+    display:inline-flex;
+    width: 100%;
+}
+
+header .fakepedia {
+    text-align: right;
+    width: 80%;
+    margin-right: 25px;
+}
+
+header .fakepedia p {
+    font-size: large;
 }

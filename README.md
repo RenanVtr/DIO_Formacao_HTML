@@ -116,3 +116,5 @@ Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais f�
 - [Wikipedia](https://pt.wikipedia.org/)
 
 ### [Resolução - Desafio 3](https://renanvtr.github.io/DIO_Formacao_HTML/Desafios/Desafio_3/index.html) 
+
+**Aviso:** As informações apresentadas na resolução do desafio podem não representar a verdade e não serve como fonte de informações.
